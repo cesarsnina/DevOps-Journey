@@ -1,7 +1,3 @@
-I follow the instructions from a YouTube Video created by NetworkChuck.
-
-[you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)](https://www.youtube.com/watch?v=wX75Z-4MEoM&t=635s)
-
 These are the list of software I installed to get the environment up and running.
 
 - Kali Linux (Kali Linux 2024.4 x86_64 Installer), file name: kali-linux-2024.4-installer-amd64.iso
@@ -17,3 +13,13 @@ These are the list of software I installed to get the environment up and running
 - VirtualBox (VirtualBox 7.1.6 platform packages - Windows hosts), file name: VirtualBox-7.1.6-167084-Win.exe
 
 - VirtualBox Extension Pack (VirtualBox 7.1.6 Extension Pack), file name: Orable_VirtualBox_Extension_Pack-7.1.6.vbox-extpack
+
+I follow the instructions from a YouTube Video created by NetworkChuck.
+
+[you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)](https://www.youtube.com/watch?v=wX75Z-4MEoM&t=635s)
+
+It's out of date so I had to figure the rest out on my own.
+
+The VirtualBox was providing me with message on what I needed to move on.
+
+Most of the setting I selected was the default.
